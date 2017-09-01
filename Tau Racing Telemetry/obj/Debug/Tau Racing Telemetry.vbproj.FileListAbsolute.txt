@@ -1,0 +1,11 @@
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\bin\Debug\Tau Racing Telemetry.exe.config
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\bin\Debug\Tau Racing Telemetry.exe
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\bin\Debug\Tau Racing Telemetry.pdb
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\bin\Debug\Tau Racing Telemetry.xml
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\obj\Debug\Tau Racing Telemetry.vbprojResolveAssemblyReference.cache
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\obj\Debug\Tau_Racing_Telemetry.Form1.resources
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\obj\Debug\Tau_Racing_Telemetry.Resources.resources
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\obj\Debug\Tau Racing Telemetry.vbproj.GenerateResource.Cache
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\obj\Debug\Tau Racing Telemetry.exe
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\obj\Debug\Tau Racing Telemetry.xml
+C:\Users\Will\documents\visual studio 2017\Projects\Tau Racing Telemetry\Tau Racing Telemetry\obj\Debug\Tau Racing Telemetry.pdb
